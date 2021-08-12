@@ -1,0 +1,6 @@
+module Pods_AplikasiPertama {
+  umbrella header "Pods-AplikasiPertama-umbrella.h"
+
+  export *
+  module * { export * }
+}
